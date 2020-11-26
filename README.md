@@ -1,1 +1,1 @@
-# A Counter by Fotis Andritsos
+# A Counter
